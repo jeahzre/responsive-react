@@ -1,0 +1,19 @@
+.cards {
+  margin-top: 5vw;
+  min-height: 150vh;
+  padding-top: 15vh;
+  text-align: center;
+}
+
+.cards h1 {
+  font-size: 5vw;
+}
+
+.cards__items {
+  width: 80%;
+  margin: 10vw auto;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 4vw;
+}
